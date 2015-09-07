@@ -18,11 +18,11 @@
 
 
 ## code examples
-- [./code/hello_world](hello_world)
-- [./code/hello_world_continued](hello_world_continued)
-- [./code/drawing_order](drawing_order)
-- [./code/basic_shapes](basic_shapes)
-- [./code/hello_mouse](hello_mouse)
+- [hello_world](./code/hello_world)
+- [hello_world_continued](./code/hello_world_continued)
+- [drawing_order](./code/drawing_order)
+- [basic_shapes](./code/basic_shapes)
+- [hello_mouse](./code/hello_mouse)
 
 
 ## what have we learnt?
