@@ -32,9 +32,10 @@
 - [`background()`](http://processing.org/reference/background_.html) sets the background color of the canvas.
 - using [`fill()`](http://processing.org/reference/fill_.html) and [`stroke()`](http://processing.org/reference/stroke_.html) we specify the fill color and outline color of all the shapes we draw next (until we change them to something else).
 - with [`strokeWeight()`](http://processing.org/reference/strokeWeight_.html) we set the weight of the outline.
-- [`noFill`](http://processing.org/reference/noFill_.html) and [`noStroke()`](http://processing.org/reference/noStroke_.html) disable filling / stroking.
+- [`noFill()`](http://processing.org/reference/noFill_.html) and [`noStroke()`](http://processing.org/reference/noStroke_.html) disable filling / stroking.
 - processing's [coordinate system](http://processing.org/examples/coordinates.html) has its origin (0, 0) in the upper left corner (just like photoshop).
 - all of processing's functions and variables are listed and explained in [the reference](http://processing.org/reference/).
+	- shortcut: select a variable or function name, then right-click and hit *Find in Reference* in the context menu
 
 
 ## additional explanations
