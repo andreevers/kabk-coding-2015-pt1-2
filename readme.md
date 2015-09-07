@@ -20,17 +20,17 @@ The latest version is always [downloadable here](https://github.com/freder/kabk-
 The official [are.na](https://www.are.na/) channel for this is [https://www.are.na/frederic-brodbeck/kabkoding-2015-pt1-2](https://www.are.na/share/UvHpIRl). share your homework here, or anything else that is interesting and related to creative coding.
 
 
-# processing
+## processing
 In this course we are going to use a programming environment called [processing](http://processing.org/).
 
 > Processing is a programming language, development environment, and online community. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. Initially created to serve as a software sketchbook and to teach computer programming fundamentals within a visual context, Processing evolved into a development tool for professionals. Today, there are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning, prototyping, and production.
 
-## getting started
+### getting started
 - [download](https://processing.org/download/?processing)
 - [the processing user interface](http://processing.org/tutorials/gettingstarted/)
 - [the environment](http://processing.org/reference/environment/)
 
-## where to find help / answers?
+### where to find help / answers?
 You can always ask me, but I encourage you try to figure out your problem yourself first. Finding and fixing errors is a big part of programming; programmers actually need to look up stuff *all the time.*
 - reading the [FAQ](https://github.com/processing/processing/wiki/FAQ)
 - consulting the [reference](http://processing.org/reference/)
@@ -39,7 +39,7 @@ You can always ask me, but I encourage you try to figure out your problem yourse
 - [google](http://www.google.com)
 - general programming questions: [stackoverflow](http://www.stackoverflow.com)
 
-## further reading
+### further reading
 - [book recommendations](./books.md)
 - [online resources](./online-resources.md)
 
