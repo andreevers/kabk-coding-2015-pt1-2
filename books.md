@@ -9,6 +9,7 @@
 # book recommendations
 
 - [Getting Started with Processing](http://shop.oreilly.com/product/0636920000570.do)
+- [The SparkFun Guide to Processing](https://www.nostarch.com/sparkfunprocessing)
 - [Processing — A Programming Handbook for Visual Designers and Artists, 2nd edition](https://processing.org/handbook/)
 - [Learning Processing](http://www.learningprocessing.com/)
 - [Generative Gestaltung](http://www.generative-gestaltung.de/)

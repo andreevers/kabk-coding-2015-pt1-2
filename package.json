@@ -1,0 +1,12 @@
+{
+  "name": "kabk-coding",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "freder",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
