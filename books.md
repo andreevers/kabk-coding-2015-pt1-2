@@ -16,4 +16,5 @@
 - [The Nature of Code](http://natureofcode.com/book/)
 - [Form+Code](http://formandcode.com/)
 - [Visualizing Data: Exploring and Explaining Data with the Processing Environment](http://www.amazon.com/Visualizing-Data-Explaining-Processing-Environment/dp/0596514557/ref=pd_sim_b_7?ie=UTF8&refRID=1QMPD8Z2H3QFHM3BBHY0)
+- [Programming Interactivity, 2nd Edition](http://shop.oreilly.com/product/0636920021735.do)
 - [(more ...)](http://processing.org/books/)
