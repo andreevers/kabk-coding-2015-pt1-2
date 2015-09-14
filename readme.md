@@ -15,7 +15,7 @@
 # general information
 This repository will contain examples for the *coding* class at [KABK](http://www.kabk.nl), for the 1st and 2nd year part-time students of the graphic design department, 2015.
 
-The latest version is always [downloadable here](https://github.com/freder/kabk-coding-2015-fall/archive/master.zip) — or via the *download ZIP* button on the right.
+The latest version is always [downloadable here](https://github.com/freder/kabk-coding-2015-pt1-2/archive/master.zip) — or via the *download ZIP* button on the right.
 
 The official [are.na](https://www.are.na/) channel for this is [https://www.are.na/frederic-brodbeck/kabkoding-2015-pt1-2](https://www.are.na/share/UvHpIRl). share your homework here, or anything else that is interesting and related to creative coding.
 
